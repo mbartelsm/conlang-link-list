@@ -1,5 +1,21 @@
 # The Conlang Link List
 
+- [The Conlang Link List](#the-conlang-link-list)
+  * [Software](#software)
+    + [Vocabulary Generators](#vocabulary-generators)
+    + [Sound change appliers](#sound-change-appliers)
+    + [Phonology and Language generators](#phonology-and-language-generators)
+    + [Translators](#translators)
+    + [Language and vocabulary managers](#language-and-vocabulary-managers)
+    + [Analysis tools](#analysis-tools)
+  * [Research](#research)
+    + [Concepts, meanings and word lists](#concepts-meanings-and-word-lists)
+    + [Phonetics](#phonetics)
+    + [Words and dictionaries](#words-and-dictionaries)
+    + [Diachronic linguistics](#diachronic-linguistics)
+    + [Grammars and language structure](#grammars-and-language-structure)
+- [Misc resources](#misc-resources)
+
 ## Software
 
 ### Vocabulary Generators
