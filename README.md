@@ -92,6 +92,10 @@
 - **[APiCS](https://apics-online.info/)**. "Expert-based information on 130 grammatical and lexical features of 76 pidgin and creole languages from around the world."
 - **[LDH](https://ldh.clld.org/)**. Link compendium of descriptive material about the world’s languages.
 
+## Guides and tutorials
+
+- **[How to Make a Language](https://www.youtube.com/watch?v=FHK1gO2Mh68&list=PL6xPxnYMQpqsooCDYtQQSiD2O3YO0b2nN)**. YouTube series by Biblaridion on how to make a language from scratch. Comprehensive and easy to digest.
+
 ## Misc resources
 
 - **[Graded Sentences for Analysis](http://www.potterpcs.net/gsfa/)**. List of sentences to aid the conlanger in defining and describing their grammar, syntax and lexicon.
