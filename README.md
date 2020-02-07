@@ -14,7 +14,7 @@
     + [Words and dictionaries](#words-and-dictionaries)
     + [Diachronic linguistics](#diachronic-linguistics)
     + [Grammars and language structure](#grammars-and-language-structure)
-- [Misc resources](#misc-resources)
+  * [Misc resources](#misc-resources)
 
 ## Software
 
