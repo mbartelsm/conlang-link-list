@@ -44,7 +44,7 @@
 
 ### Analysis tools
 
--**[The Frequentizer](http://akana.conlang.org/tools/frequentizer.html)**. "This is a Javascript tool for analyzing phoneme frequencies in a language".
+- **[The Frequentizer](http://akana.conlang.org/tools/frequentizer.html)**. "This is a Javascript tool for analyzing phoneme frequencies in a language".
 
 ## Research
 
