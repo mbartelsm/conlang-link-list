@@ -75,6 +75,7 @@
 
 ### Phonetics
 - **[PHOIBLE](https://phoible.org/)**. A database of sounds and sound inventories of languages from all over the world.
+- † **[A Survey of some Vowel Systems](https://web.archive.org/web/20160507235834/http://gesc19764.pwp.blueyonder.co.uk/vowels/vowel_systems.html)**. A compendium of various vowel systems, organized and categorized by their size and features.
 
 ### Words and dictionaries
 - **[IDS](https://ids.clld.org/)**. A database of words from languages across the globe curated and organized in such a way that comparisons can be made.
